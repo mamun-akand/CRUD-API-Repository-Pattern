@@ -71,9 +71,7 @@ namespace WebApplication1.Repositories.Implementaions
             }
             return 0;
         }
-
     
-
         //byDefault
         public void Dispose()
         {
